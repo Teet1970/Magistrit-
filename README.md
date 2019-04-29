@@ -1,3 +1,3 @@
 # Magistritöö
 Metoodika kasvatusväärtuste automaatseks eraldamiseks online tekstidest
-GitHubi repositiooriumis on magistritöö tarkvarakood (programmeerimiskeeles python), mis on neljas osas - veebiämblik, kasvatusväärtuste sõnastiku koostamine, kasvatusväärtuste leidmine meediatekstidest ning kasvatusväärtusi sisaldavate tekstide analüüs. 
+GitHubi repositiooriumis on magistritöö tarkvarakood (programmeerimiskeeles python), mis on kuues osas - Eesti Wordnet, Word2vec,veebiämblik, kasvatusväärtuste leidmine meediatekstidest, emotsiooniskooride arvutamine ning kasvatusväärtusi sisaldavate tekstide analüüs. 
